@@ -1,0 +1,29 @@
+caglar.unsal@MRK-BDT-LT9262 MINGW64 ~
+$ cd Desktop
+
+caglar.unsal@MRK-BDT-LT9262 MINGW64 ~/Desktop
+$ cd deneme
+
+caglar.unsal@MRK-BDT-LT9262 MINGW64 ~/Desktop/deneme
+$ git config --global user.name "caglar"
+
+caglar.unsal@MRK-BDT-LT9262 MINGW64 ~/Desktop/deneme
+$ git config --global user.email "mcunsal@yahoo.com"
+
+caglar.unsal@MRK-BDT-LT9262 MINGW64 ~/Desktop/deneme
+$ git init
+Initialized empty Git repository in C:/Users/caglar.unsal/Desktop/deneme/.git/
+
+caglar.unsal@MRK-BDT-LT9262 MINGW64 ~/Desktop/deneme (master)
+$ git add .
+
+caglar.unsal@MRK-BDT-LT9262 MINGW64 ~/Desktop/deneme (master)
+$ echo "# ders" >> README.md
+
+caglar.unsal@MRK-BDT-LT9262 MINGW64 ~/Desktop/deneme (master)
+$ git add .
+warning: LF will be replaced by CRLF in README.md.
+The file will have its original line endings in your working directory.
+
+caglar.unsal@MRK-BDT-LT9262 MINGW64 ~/Desktop/deneme (master)
+$
